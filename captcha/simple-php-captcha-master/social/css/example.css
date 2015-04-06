@@ -1,0 +1,49 @@
+@font-face {font-family: NexaBold;
+    src: url('../font/Nexa_Bold.eot');
+    src: url('../font/Nexa_Bold.eot?#iefix') format('embedded-opentype'),
+         url('../font/Nexa_Bold.woff') format('woff'),
+         url('../font/Nexa_Bold.ttf') format('truetype'),
+         url('../font/Nexa_Bold.svg#OpenSansLight') format('svg');
+}
+
+.clear{clear: both;}
+.tuto-cnt{width: 980px; height:auto; min-height: 400px; margin: 40px auto; padding: 40px; overflow: auto; }
+.vertical-cnt{width: 280px; height: auto; overflow: auto; float: left; padding: 10px;}
+.horizontal{width: 100%; height: 60px; overflow: auto; float: left; padding: 10px;}
+
+
+
+.soc-cnt{
+	min-width: 180px; height: 34px; 
+	padding: 3px 20px 3px 3px;  margin-right: 10px; margin-bottom: 10px;
+	display: inline-block; 
+	background-color: #fff;
+	cursor: pointer;
+	-webkit-box-shadow: 0px 0px 5px rgba(50, 50, 50, 0.31);
+    -moz-box-shadow:    0px 0px 5px rgba(50, 50, 50, 0.31);
+    box-shadow:         0px 0px 10px rgba(50, 50, 50, 0.31);
+}
+.soc-img{
+	width: 34px; height: 34px; 
+	float: left; margin-right: 10px;
+}
+.soc-count{
+	font: 24px NexaBold;
+	height: 22px; 
+	margin-top: 0; padding-top: 0; line-height: 21px;
+}
+.soc-lab{ font: 11px verdana; color: #333}
+
+/* */
+.facebook-icon{ background: url(../img/facebook-icon.png) no-repeat;}
+.youtube-icon{ background: url(../img/youtube-icon.png) no-repeat; }
+.twitter-icon{ background: url(../img/twitter-icon.png) no-repeat; }
+.behance-icon{background: url(../img/behance-icon.png) no-repeat; }
+.dribbble-icon{ background: url(../img/dribbble-icon.png) no-repeat; }
+.gplus-icon{ background: url(../img/gplus-icon.png) no-repeat; }
+.instagram-icon{ background: url(../img/instagram-icon.png) no-repeat; }
+.soundcloud-icon{ background: url(../img/soundcloud-icon.png) no-repeat; }
+.vimeo-icon{ background: url(../img/vimeo-icon.png) no-repeat; }
+
+
+
